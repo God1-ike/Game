@@ -1,0 +1,25 @@
+.menu{
+	background-image: url(img/1.png);
+	background-size: cover;
+}
+.log{
+	display: block;
+    margin-left: 40%;
+	margin-top: 70px;
+   
+}
+
+.but{
+	margin-top: 40px;
+	background-image: url(img/3.png);
+	width: 140px;
+	font-size: 20px;
+	border-radius: 45px;
+	vertical-align:middle;
+	padding: 10px 10px 10px 90px;
+}
+
+th{
+	background-image: url(img/3.png);
+	text-align: center;
+}
