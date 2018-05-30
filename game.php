@@ -14,7 +14,6 @@
 	<?php
 		$errors ="";
 		$i = rand(0,1);
-		include_once("quest.php");
 		if(isset($_POST['otv']))
 		{
 			$otvet =$_POST['otvet'];
